@@ -19,6 +19,13 @@ you'll want to run is::
 
     $ pip install -e .
 
+In order to download all the pdfs into the current directory you then simply run::
+
+    $ TekniskFysikCLI entire
+
+Developer Information
+_____________________
+
 If you want to install the development libraries aswell, the command you'll
 want to run is::
 
@@ -49,3 +56,5 @@ new package to PyPI so everyone in the world can use it!
 Credits
 -------
 Based on information provided at `stormpath.com <https://stormpath.com/blog/building-simple-cli-interfaces-in-python>`_
+Utilizes python libraries "Docopt" and "BeautifulSoup" for CLI functionality.
+Testing tools provided by python libraries "Coverage", "Pytest" and "Pytest-cov".
