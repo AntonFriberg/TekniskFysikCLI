@@ -1,5 +1,4 @@
-created with help from https://stormpath.com/blog/building-simple-cli-interfaces-in-python
-skele-cli
+TekniskFysikCLI
 =========
 
 *A tool to download material from tekniskfysik.org*
@@ -8,7 +7,7 @@ skele-cli
 Purpose
 -------
 
-This is a simple CLI tool that downloads pdf material from `tekniskfysik.org <http://tekniskfysik.org/>`.
+This is a simple CLI tool that downloads pdf material from `tekniskfysik.org <http://tekniskfysik.org/>`_.
 It puts all the pdfs into course folders for easy organisation. 
 
 
@@ -49,4 +48,4 @@ new package to PyPI so everyone in the world can use it!
 
 Credits
 -------
-Based on information provided at `stormpath.com <https://stormpath.com/blog/building-simple-cli-interfaces-in-python>`
+Based on information provided at `stormpath.com <https://stormpath.com/blog/building-simple-cli-interfaces-in-python>`_
